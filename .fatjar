@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jul 16 22:56:33 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ConnectPipe-fat.jar
+manifest.mergeall=true
+manifest.mainclass=cube.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|bukkit-1.6.4-R2.0.jar>
+includes=
